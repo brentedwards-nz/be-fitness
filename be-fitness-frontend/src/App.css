@@ -1,3 +1,12 @@
+.link {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #FFF
+}
+
 .App {
   text-align: center;
 }
@@ -32,6 +41,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
